@@ -1,0 +1,78 @@
+.fountain-screenplay {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-top: 1px dotted rgba(0, 0, 0, 0.2);
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
+  margin-bottom: 1em;
+  margin-top: 1em;
+  line-height: 1.6em;
+  padding: 0.75em;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40em;
+}
+
+.fountain-screenplay p,
+.fountain-screenplay h1,
+.fountain-screenplay h2,
+.fountain-screenplay h3,
+.fountain-screenplay #toctitle,
+.fountain-screenplay .sidebarblock > .content > .title,
+.fountain-screenplay h4 {
+  color: darkolivegreen;
+  font-family: 'cmu_typewriter_textlight';
+  text-align: left;
+  font-weight: normal;
+  font-size: 1em;
+  margin-bottom: 1.5em;
+}
+.fountain-screenplay h1 {
+  text-decoration: underline;
+}
+.fountain-screenplay .screenplay-title-page {
+  text-align: center;
+  padding: 4em 0;
+  margin-bottom: 2em;
+  border-bottom: 1px dotted rgba(0, 0, 60, 0.2);
+}
+
+.fountain-screenplay .screenplay-title-page h1 {
+  text-align: center;
+  font-weight: bold;
+}
+.fountain-screenplay .screenplay-title-page p {
+  text-align: center;
+}
+.fountain-screenplay .screenplay-title-page .credit {
+  margin: 0;
+}
+.fountain-screenplay .screenplay-title-page .notes {
+  text-align: left;
+  max-width: 20em;
+  margin-left: auto;
+}
+.fountain-screenplay .bold {
+  font-weight: bold;
+}
+.fountain-screenplay .dialogue {
+  margin-bottom: 1.5em;
+}
+.fountain-screenplay .h3 {
+  text-transform: uppercase;
+}
+.fountain-screenplay .dialogue h4 {
+  margin: 0;
+  max-width: 8em;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fountain-screenplay .dialogue p {
+  margin: 0;
+  max-width: 20em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.fountain-screenplay .centered {
+  text-align: center;
+}

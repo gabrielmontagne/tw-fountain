@@ -1,0 +1,16 @@
+title: $:/plugins/tm/tw-fountain/usage
+
+Create new tidders with the provided `text/fountain` type.
+Write your screenplay text in the elegant and simple [[Fountain syntax|https://fountain.io/syntax/]]
+
+The plugin will render an approximation of the screenplay.
+
+You can embed your fountain tiddlers in normal tiddlers using basic transclussion.
+
+See [[$:/plugins/tm/tw-fountain/example]]:
+
+```
+{{$:/plugins/tm/tw-fountain/example}}
+```
+
+{{$:/plugins/tm/tw-fountain/example}}

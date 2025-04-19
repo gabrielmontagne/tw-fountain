@@ -1,0 +1,10 @@
+{
+    "title": "$:/plugins/tm/tw-fountain",
+    "description": "Fountain screenplay support",
+    "author": "gabriel montagné",
+    "version": "0.0.1",
+    "core-version": ">=5.0.0",
+    "source": "https://github.com/gabrielmontange/tw-fountain",
+    "list": "readme usage example",
+    "plugin-type": "plugin"
+}
