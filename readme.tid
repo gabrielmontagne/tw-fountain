@@ -1,7 +1,6 @@
 title: $:/plugins/tm/tw-fountain/readme
 
-* https://github.com/gabrielmontagne/tw-fountain
-
+* https://github.com/gabrielmontagne/tw-fountain — [[demo|http://popa.tibas.london/a/tw-fountain/tw-fountain.html]]
 * Render [[Fountain|https://fountain.io/]] screenplays in [[TiddlyWiki|https://tiddlywiki.com/]].
 
 * Wraps [[Fountain-js|https://github.com/jonnygreenwald/fountain-js]], with [[JsonML|https://github.com/mckamey/jsonml]] and a pinch of [[CMU's typewriter font|https://en.wikipedia.org/wiki/Computer_Modern]].
